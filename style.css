@@ -1,0 +1,115 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40px;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+}body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+
+    color: dimgray;
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 43%;
+    float: left;
+    margin-left: 3%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.header-area {
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    height: 800px;
+    margin-bottom: 80px;
+}
+#header-photo {
+    margin-top: 100px;
+}
+.top-banner{
+    background-image:url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+    display: block;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.bio-area {
+    width: 5px;
+    margin-top: 20px;
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+.client-area{
+    text-align: center;
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    height: 200px;
+    margin-bottom: 20px;
+}
+div.box p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.box {
+    width: 600px;
+    height: 150px;
+    margin: auto;
+    border: 1px solid #ff438d;
+    background-color: #ff438d;
+    border-radius: 10px;
+    color: #fff;
+    text-align: center;
+    padding: 5px 20px;
+    margin-bottom: 50px;
+}
+.client-area h5 {
+    font-weight: 400;
+}
+.client-area h5 {
+    color: #80809e;
+    padding-top: 0px;
+}
+h5 {
+    display: block;
+    font-size: 0.83em;
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
